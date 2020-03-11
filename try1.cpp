@@ -8,7 +8,7 @@ int main(void)
 	
 	cout<<"What's your name?"<<endl;
 	cin.getline(name,20);
-	cout<<"Hi,"<<name<<","<<ptr<<endl;
+	cout<<"ถู,"<<name<<","<<ptr<<endl;
 	
 	return 0;
 }
